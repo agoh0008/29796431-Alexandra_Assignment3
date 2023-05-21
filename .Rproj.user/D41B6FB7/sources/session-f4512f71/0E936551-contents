@@ -5,11 +5,7 @@ date: "2023-05-21"
 output: html_document
 ---
 
-<<<<<<< HEAD
-main change
-=======
 branch2 change
->>>>>>> branch2
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

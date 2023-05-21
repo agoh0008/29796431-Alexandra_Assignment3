@@ -1,27 +1,27 @@
 {
-    "id": "9A897BAD",
+    "id": "0E936551",
     "path": "C:/Users/USER/Monash/ETC5513/29796431-Alexandra_Assignment3/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1684644884771.0,
+    "created": 1684644811457.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,11",
+        "cursorPosition": "7,14",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684644889,
+    "lastKnownWriteTime": 1684644822,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684644889135,
+    "last_content_update": 1684644822133,
     "read_only": false,
     "read_only_alternatives": []
 }
